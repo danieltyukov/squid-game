@@ -1,0 +1,22 @@
+{
+  "name": "squid-game",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000R\u0000e\u0000d\u0000 \u0000L\u0000i\u0000g\u0000h\u0000t\u0000,\u0000 \u0000G\u0000r\u0000e\u0000e\u0000n\u0000 \u0000L\u0000i\u0000g\u0000h\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieltyukov/squid-game.git"
+  },
+  "author": "daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieltyukov/squid-game/issues"
+  },
+  "homepage": "https://github.com/danieltyukov/squid-game#readme",
+  "dependencies": {
+    "three": "^0.134.0"
+  }
+}
